@@ -24,3 +24,5 @@ def fahrenheit_to_celsius(fahrenheit: float) -> float:
 if __name__ == "__main__":
     print(f"10 км = {km_to_miles(10):.2f} миль")
     print(f"100 °C = {celsius_to_fahrenheit(100):.1f} °F")
+    print(f"10 миль = {miles_to_km(10):.2f} км")
+    print(f"212 °F = {fahrenheit_to_celsius(212):.1f} °C")
