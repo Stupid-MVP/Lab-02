@@ -15,6 +15,7 @@
 
 ## Структура репозиторію
 
+```text
 Lab-02/
 ├── calculator/
 │   └── calculator.py
@@ -24,6 +25,7 @@ Lab-02/
 │   └── password_generator.py   (у розробці)
 ├── .gitignore
 └── README.md
+```
 
 ## Модулі
 
