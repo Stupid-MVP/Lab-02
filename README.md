@@ -22,7 +22,7 @@ Lab-02/
 ├── converter/
 │   └── converter.py
 ├── password_generator/
-│   └── password_generator.py   (у розробці)
+│   └── password_generator.py  
 ├── .gitignore
 └── README.md
 ```
