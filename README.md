@@ -11,7 +11,7 @@
 |---------|------|--------|
 | Шульга Андрій Сергійович (@shulgaaa294-stack) | Team lead | calculator |
 | Грицюк Назар Олександрович (@SkyDreammer-exe) | Developer | converter |
-| Смоляр Орест Миколайович (@Mphiza) | QA | password_generator |
+| Смоляр Орест Миколайович (@Mphizard) | QA | password_generator |
 
 ## Структура репозиторію
 
